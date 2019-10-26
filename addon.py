@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://images.theabcdn.com/i/24795207.png"},
+            'thumbnail': "https://images.theabcdn.com/i/24795181.png"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://images.theabcdn.com/i/24795207.png"},
+            'thumbnail': "https://images.theabcdn.com/i/24795181.png"},
     ]
     return items
 
